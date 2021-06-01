@@ -1,4 +1,4 @@
-let a = 4;
+let a = 8;
 a++;
 console.log(a);
 console.log('holle wolrd');
